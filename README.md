@@ -43,4 +43,7 @@ Visual studio solution file name: Time Management App (POE).sln
 
 -----------------------------------------------------------------------------------------
 ![Login](https://user-images.githubusercontent.com/79351812/229384716-77973b73-c6a3-4acf-87b3-e2fb506d35e1.PNG)
+![Registration](https://user-images.githubusercontent.com/79351812/229384734-13837f23-ddea-4c8d-8204-533dce587042.PNG)
+![HomePage](https://user-images.githubusercontent.com/79351812/229384744-6860c787-5247-46ee-a903-1d16edfb3f72.PNG)
+
 
