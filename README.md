@@ -42,4 +42,5 @@ Project name: Time Management App (POE)
 Visual studio solution file name: Time Management App (POE).sln
 
 -----------------------------------------------------------------------------------------
+![Add Modules](https://user-images.githubusercontent.com/79351812/229384699-4aeba737-b0bf-407e-a0cf-dec2b2299838.PNG)
 
