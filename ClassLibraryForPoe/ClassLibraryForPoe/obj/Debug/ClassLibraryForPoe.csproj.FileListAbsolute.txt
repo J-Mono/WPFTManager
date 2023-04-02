@@ -1,0 +1,11 @@
+C:\Users\lawre\Documents\Visual Studio 2019\POES\ClassLibraryForPoe\ClassLibraryForPoe\bin\Debug\ClassLibraryForPoe.dll
+C:\Users\lawre\Documents\Visual Studio 2019\POES\ClassLibraryForPoe\ClassLibraryForPoe\bin\Debug\ClassLibraryForPoe.pdb
+C:\Users\lawre\Documents\Visual Studio 2019\POES\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\Visual Studio 2019\POES\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.dll
+C:\Users\lawre\Documents\Visual Studio 2019\POES\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.pdb
+C:\Users\Lawrence\Documents\Restart package (POE)\ClassLibraryForPoe\ClassLibraryForPoe\bin\Debug\ClassLibraryForPoe.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\ClassLibraryForPoe\ClassLibraryForPoe\bin\Debug\ClassLibraryForPoe.pdb
+C:\Users\Lawrence\Documents\Restart package (POE)\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.csprojAssemblyReference.cache
+C:\Users\Lawrence\Documents\Restart package (POE)\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.csproj.CoreCompileInputs.cache
+C:\Users\Lawrence\Documents\Restart package (POE)\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\ClassLibraryForPoe\ClassLibraryForPoe\obj\Debug\ClassLibraryForPoe.pdb
