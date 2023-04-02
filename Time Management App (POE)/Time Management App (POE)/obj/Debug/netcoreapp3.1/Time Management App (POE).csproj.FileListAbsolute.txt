@@ -1,0 +1,137 @@
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).exe
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).deps.json
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.json
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.dev.json
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.cache
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.lref
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).g.resources
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfoInputs.cache
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfo.cs
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).genruntimeconfig.cache
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.g.cs
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.baml
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.g.cs
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\StudyHours.g.cs
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.baml
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\StudyHours.baml
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.dll
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.pdb
+C:\Users\lawre\Documents\Visual Studio 2019\POES\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CopyComplete
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csprojAssemblyReference.cache
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.g.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.g.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Registration.g.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\WelcomePage.g.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.cache
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.lref
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).exe
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).deps.json
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.json
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.dev.json
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.dll
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.pdb
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.baml
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.baml
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Registration.baml
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\WelcomePage.baml
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).g.resources
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfoInputs.cache
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfo.cs
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CoreCompileInputs.cache
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CopyComplete
+C:\Users\Lawrence\Documents\Restart package (POE)\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).genruntimeconfig.cache
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).exe
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).deps.json
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.json
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.dev.json
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.pdb
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.g.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.g.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Registration.g.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\WelcomePage.g.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.cache
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.lref
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.baml
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.baml
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Registration.baml
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\WelcomePage.baml
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).g.resources
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfoInputs.cache
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfo.cs
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CopyComplete
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\lawre\Documents\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).genruntimeconfig.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).exe
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).deps.json
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.json
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).runtimeconfig.dev.json
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\bin\Debug\netcoreapp3.1\ClassLibraryForPoe.pdb
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.g.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.g.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Registration.g.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\WelcomePage.g.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE)_MarkupCompile.lref
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Modules.baml
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\ModulesEntered.baml
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Registration.baml
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\WelcomePage.baml
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).g.resources
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfoInputs.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).AssemblyInfo.cs
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).csproj.CopyComplete
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).dll
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).pdb
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\Prog POE File\PROG6212 Task2 20104412\Time Management App (POE)\Time Management App (POE)\obj\Debug\netcoreapp3.1\Time Management App (POE).genruntimeconfig.cache

@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Time_Management_App__POE_</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Poe_Background.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Poe_Background.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryForPoe">
+      <HintPath>..\..\ClassLibraryForPoe\ClassLibraryForPoe\bin\Debug\ClassLibraryForPoe.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
